@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+background: linear-gradient(135deg, #bb57b3,#3f7994);
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+align-items: center;
+
+}
+.formgroup{
+    max-width: 100px;
+    width: 100%;
+    background-color: beige;
+}
+#h1{
+    align-items: calc(10px,10px);
+}
+
